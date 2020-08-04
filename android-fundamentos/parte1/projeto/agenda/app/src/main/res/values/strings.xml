@@ -1,3 +1,23 @@
 <resources>
-    <string name="app_name">Students List</string>
+    <string name="app_name" translatable="false">Alura Android Fundamentos Parte 1</string>
+
+    <string name="title_activity_list_students">List Students</string>
+
+    <string name="title_activity_edit_student_edit">Edit Student</string>
+    <string name="title_activity_edit_student_new">New Student</string>
+
+    <string name="activity_edit_student_label_name">Name</string>
+    <string name="activity_edit_student_label_phone">Phone</string>
+    <string name="activity_edit_student_label_email">Email</string>
+
+    <string name="activity_edit_student_hint_name">Type the name</string>
+    <string name="activity_edit_student_hint_phone">Type the phone number</string>
+    <string name="activity_edit_student_hint_email">Type the email address</string>
+
+    <string name="activity_edit_student_save">Save Student</string>
+
+    <string name="activity_list_students_dialog_delete_title">Delete Student</string>
+    <string name="activity_list_students_dialog_delete_message">This Student will be deleted\nPress <b><u>Delete</u></b> to continue.</string>
+    <string name="activity_list_students_dialog_delete_button_positive">Delete</string>
+    <string name="activity_list_students_dialog_delete_button_negative">Cancel</string>
 </resources>

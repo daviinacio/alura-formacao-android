@@ -1,4 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Lista de Alunos</string>
+    <string name="title_activity_list_students">Lista de Alunos</string>
+
+    <string name="title_activity_edit_student_edit">Editar Aluno</string>
+    <string name="title_activity_edit_student_new">Novo Aluno</string>
+
+    <string name="activity_edit_student_label_name">Nome</string>
+    <string name="activity_edit_student_label_phone">Telefone</string>
+    <string name="activity_edit_student_label_email">Email</string>
+
+    <string name="activity_edit_student_hint_name">Digite o nome</string>
+    <string name="activity_edit_student_hint_phone">Digite o número de telefone</string>
+    <string name="activity_edit_student_hint_email">Digite o endereço de email</string>
+
+    <string name="activity_edit_student_save">Salvar aluno</string>
+
+    <string name="activity_list_students_dialog_delete_title">Apagar Aluno</string>
+    <string name="activity_list_students_dialog_delete_message">Esse Aluno será apagado\nPrecione <b><u>Apagar</u></b> para continuar.</string>
+    <string name="activity_list_students_dialog_delete_button_positive">Apagar</string>
+    <string name="activity_list_students_dialog_delete_button_negative">Cancelar</string>
 </resources>

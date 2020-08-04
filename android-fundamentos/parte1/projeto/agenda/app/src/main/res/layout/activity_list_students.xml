@@ -4,15 +4,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".activity.ListStudentsActivity">
 
     <ListView
-        android:id="@+id/activity_main_list"
+        android:id="@+id/activity_list_students_list"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
-        android:id="@+id/activity_main_fab"
+        android:id="@+id/activity_list_students_fab"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentEnd="true"
